@@ -4,6 +4,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&include_all_commits=true)](https://github.com/YourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername/github-readme-stats)
+
 
 
 - :orange_book: Focusing on Swift & iOS
