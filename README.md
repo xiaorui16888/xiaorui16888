@@ -4,10 +4,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![Python](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=python&logoColor=blue)
-
 
 
 - :orange_book: Focusing on Swift & iOS
