@@ -2,9 +2,6 @@
 
 ### 小睿同学 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
-
-
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
